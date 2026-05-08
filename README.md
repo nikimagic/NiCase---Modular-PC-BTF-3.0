@@ -1,3 +1,4 @@
+<img width="2400" height="2400" alt="PC_new_type" src="https://github.com/user-attachments/assets/d196dc00-6948-4e2c-b704-3ce8d1ecab1e" />
 # NiCase---Modular-PC-BTF-3.0
 Модульный ПК без проводов.
 
