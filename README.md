@@ -34,5 +34,9 @@ GPU + mirrored motherboard-card + server PSU + backplane = полностью м
 
 <img width="1536" height="1024" alt="cpu_11_combined_backplate_top_perspective_transparent" src="https://github.com/user-attachments/assets/e0de81b5-5557-42c5-8bb2-b8c2a0a321f3" />
 
+<img width="1774" height="887" alt="cpu_13_front_plate_white_pcie" src="https://github.com/user-attachments/assets/deb4dd1b-e803-4e14-bd11-2658f9f72e8b" />
+
+
+
 
 
